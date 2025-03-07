@@ -1,7 +1,6 @@
 # Liquidity Risk Assessment Tool
 
 - This Python tool evaluates the liquidity risk of a portfolio by assessing the cost and time required to liquidate assets under normal and stressed conditions.
-- It’s designed to ensure assets (e.g., loans, securitized products) can be liquidated or funded without significant loss, critical for managing diverse portfolios.
 
 ---
 
