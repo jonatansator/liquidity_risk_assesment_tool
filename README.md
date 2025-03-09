@@ -23,3 +23,7 @@
 - **Liquidation Time**: Calculates days to liquidate based on liquidity score (up to 30 days), with a 20% increase under stress.
 - **Portfolio Metrics**: Aggregates total value, percentage liquidity cost, and average liquidation time for normal and stressed scenarios.
 - **Visualization**: Plots per-asset liquidation cost (% of value) for both conditions using Plotly.
+
+## Screenshots
+![output](output.png)
+
